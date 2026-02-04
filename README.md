@@ -16,4 +16,12 @@ I am a second-year Artificial Intelligence & Data Science undergraduate with a s
 [![](https://visitcount.itsvg.in/api?id=Ankitpardeshiii&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+
+
+
+
+
+
+
+
 ![snake gif](https://github.com/Ankitpardeshiii/Ankitpardeshiii/blob/output/github-snake-dark.svg)
