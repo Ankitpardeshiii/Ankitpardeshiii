@@ -80,42 +80,6 @@ Currently, I am focused on **skill-building, academic excellence, open-source co
 
 ---
 
-## 🚀 Projects
-
-### 📊 Data Analysis Projects
-
-Working on data-driven projects involving:
-
-* Data cleaning and preprocessing
-* Exploratory Data Analysis
-* Statistical analysis
-* Data visualization
-* SQL-based analysis
-* Business insights
-
-### 🤖 Machine Learning Projects
-
-Building beginner-to-intermediate ML projects using:
-
-* Python
-* Pandas & NumPy
-* Scikit-Learn
-* Feature engineering
-* Data preprocessing
-* Model evaluation
-
-### 🌐 Full-Stack Projects
-
-Building practical applications to strengthen my understanding of:
-
-* Backend development
-* Databases
-* Authentication
-* REST APIs
-* Application architecture
-
----
-
 ## 🌱 Open Source
 
 I actively participate in open-source development and collaborative projects.
@@ -125,19 +89,6 @@ I actively participate in open-source development and collaborative projects.
 * 🐛 Fixing issues and improving existing projects
 * 🤝 Collaborating with developers
 * 📚 Learning through real-world codebases
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankitpardeshiii&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitpardeshiii&layout=compact&theme=dark&hide_border=true&count_private=true" height="180" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ankitpardeshiii&theme=dark&hide_border=true" height="180" alt="GitHub Streak"/>
-</p>
 
 ---
 
